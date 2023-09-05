@@ -12,15 +12,15 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--img align="center" alt="ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"-->
   <!--img align="center" alt="ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="aCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="ale-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!--img align="center" alt="ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-  <img align="right" alt="ale-pic" height="150" style="border-radius:50px;" 
+  <!--<img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" -->
 </div>
   
   ##
@@ -33,6 +33,6 @@
   <!--<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
  
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/def-ale/def-ale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/def-ale/def-ale/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ThiagoCardoso001/ThiagoCardoso001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/def-ale/def-ale/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
